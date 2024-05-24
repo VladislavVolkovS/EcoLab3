@@ -2,4 +2,4 @@
 
 В данной работе реализована визуализация работы алгоритма в консоли.
 
-![Демонстрация](https://github.com/VladislavVolkovS/EcoLab3/blob/main/demo.mp4)
+https://github.com/VladislavVolkovS/EcoLab3/blob/main/demo.mp4
